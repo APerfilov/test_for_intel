@@ -1,0 +1,4 @@
+pyyaml==5.4.1
+pytest==6.2.3
+allure-pytest==2.9.42
+pytest_check==1.0.4
